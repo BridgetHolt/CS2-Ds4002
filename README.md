@@ -10,6 +10,7 @@ All data needed can be found in the "DATA" folder and includes both a folder wit
 
 # Reference Materials
 Below I have listed some helpful refrance material to refere back to:
+
 [1] Maria-Elena Nilsback “102 Category Flower Dataset” Oxford https://www.robots.ox.ac.uk/~vgg/data/flowers/102/ [Accessed Apr. 3 , 2025]
 
 [2] Rohini G “Everything you need to know about VGG16” Medium https://medium.com/@mygreatlearning/everything-you-need-to-know-about-vgg16-7315defb5918 [Accessed Apr. 3 , 2025]
